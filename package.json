@@ -1,6 +1,6 @@
 
 {
-  "name": "Bwm-xmd",
+  "name": "DRIPPYKID-xmd",
   "version": "2.0.0",
   "description": "",
   "main": "body.js",
@@ -21,7 +21,7 @@
     "whatsapp-bot",
     "Ibrahim-Adams"
   ],
-  "author": "Ibrahim Adams",
+  "author": "Drippykid",
   "license": "ISC",
   "dependencies": {
     "@adiwajshing/keyed-db": "^0.2.4",
